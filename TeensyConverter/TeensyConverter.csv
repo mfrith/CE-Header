@@ -1,0 +1,25 @@
+Title,Teensy
+Revision,0
+Date,
+Generated,11/19/2017 9:37:42 AM
+Company,
+Comment 1,
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,5
+Total Unique Parts,4
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,
+P1 ,1,CONN_01X03,Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm,
+R1 R2 ,2,0,Resistors_SMD:R_0805_HandSoldering,
+U1 ,1,Teensy-3.2,TeensyConverter:Teensy-32,
+U2 ,1,CE_HEADER,TeensyConverter:CE_Header,
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated 11/19/2017 9:37:42 AM
